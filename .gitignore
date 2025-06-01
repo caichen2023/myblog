@@ -1,0 +1,26 @@
+# Hugo 生成的静态文件
+/public/
+/resources/_gen/
+
+# Hugo 缓存文件
+/resources/_gen/
+.cache/
+
+# Hugo 可能的临时或输出文件夹
+/hugo_stats.json
+
+# 操作系统和编辑器相关
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# VSCode 配置文件（可选）
+.vscode/
+
+# node_modules 如果你用npm管理前端资源
+node_modules/
+
+# 其他你不想提交的日志文件
+*.log
