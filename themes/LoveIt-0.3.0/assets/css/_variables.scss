@@ -354,22 +354,22 @@ $admonition-color-list:
   !default;
 // ========== Admonition ========== //
 
-body {
-  background: url("/images/bg.jpg") no-repeat center center fixed;
-  background-size: cover;
-}
+// body {
+//   background: url("/images/bg.jpg") no-repeat center center fixed;
+//   background-size: cover;
+// }
 
-.main {
-  background-color: rgba(30, 30, 30, 0.85); // 深灰色，带透明度
-  color: #f5f5f5;                          // 字体亮一点
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
-}
+// .main {
+//   background-color: rgba(30, 30, 30, 0.85); // 深灰色，带透明度
+//   color: #f5f5f5;                          // 字体亮一点
+//   padding: 2rem;
+//   border-radius: 12px;
+//   box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+// }
 
-.highlight, .admonition {
-  background-color: rgba(40, 40, 40, 0.9);
-  border-radius: 8px;
-}
+// .highlight, .admonition {
+//   background-color: rgba(40, 40, 40, 0.9);
+//   border-radius: 8px;
+// }
 
 
